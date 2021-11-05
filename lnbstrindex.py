@@ -32,3 +32,4 @@ The output string is :['P', 't', 'o', ' ', 's', 'a', 'c', 'o', 's', 'p', 'a', 'f
 Enter the string :Python
 The output string is :['y', 'h', 'n']
 '''
+
