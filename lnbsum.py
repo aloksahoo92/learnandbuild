@@ -24,3 +24,4 @@ Enter the integer 4 :43
 Enter the integer 5 :21
 The sum of [23, 32, 12, 43, 21] is :131
 '''
+
