@@ -21,4 +21,3 @@ Enter the integer  1st :20
 Enter the integer  2nd :30
 The output is :50
 '''
-
